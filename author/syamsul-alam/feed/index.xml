@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2024/11/logo-konstruksi-besi-favicon-150x150.png</url>
@@ -47,7 +47,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Kekuatan Tinggi</strong><br>Besi memiliki kemampuan menahan tekanan dan beban yang berat, membuatnya ideal untuk struktur bangunan seperti gedung pencakar langit, jembatan, dan tiang listrik.</li>
 
 
@@ -69,7 +69,7 @@
 
 
 
-<ol>
+<ol class="wp-block-list">
 <li><strong>Industri Konstruksi</strong><br>Besi digunakan sebagai tulang punggung konstruksi modern. Beton bertulang besi memberikan kekuatan tambahan pada gedung dan jembatan, sementara baja struktural memberikan daya tahan tinggi terhadap cuaca ekstrem.</li>
 
 
@@ -99,7 +99,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>Hindari kontak langsung dengan air agar tidak mudah berkarat.</li>
 
 
